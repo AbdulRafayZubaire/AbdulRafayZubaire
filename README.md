@@ -33,6 +33,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrafayzubaire&" alt="abdulrafayzubaire" /></p>
 
+[![AbdulRafayZubaire's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbdulRafayZubaire&theme=react-dark)](https://github.com/AbdulRafayZubaire)
+
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulRafayZubaire&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
