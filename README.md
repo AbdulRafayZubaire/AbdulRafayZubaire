@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrafayzubaire&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrafayzubaire" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrafayzubaire" alt="abdulrafayzubaire" /></a> </p>
-
 - 🔭 I’m currently working on [Bellhopt](https://bellhopt.com)
 
 - 🌱 I’m currently learning **AWS Infrastructure**
 
-- 👯 I’m looking to collaborate on **any dynamic and unique web devlopment project**
+- 👯 I’m looking to collaborate on **any dynamic and unique web development project**
 
 - 👨‍💻 All of my projects are available at [https://abdurrafay.netlify.app/](https://abdurrafay.netlify.app/)
 
-- 💬 Ask me about **React, Javascript, Node js, pyhton and competitive programming**
+- 💬 Ask me about **React, Javascript, Node js, python and competitive programming**
 
 - 📫 How to reach me **abdurrafaykhawer20@gmail.com**
 
@@ -34,3 +32,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrafayzubaire&show_icons=true&locale=en" alt="abdulrafayzubaire" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrafayzubaire&" alt="abdulrafayzubaire" /></p>
+
+<h2><i>⚙️ GitHub Analytics</i></h2>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulRafayZubaire&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdulRafayZubaire&layout=compact&langs_count=8&theme=algolia" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRafayZubaire&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
