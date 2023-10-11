@@ -14,7 +14,6 @@
 
 📫 How to reach me abdurrafaykhawer20@gmail.com
 
-⚡ Fun fact I am not funny but hilarious for sure, sometimes. They call me that.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrafayzubaire) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22512711) 
